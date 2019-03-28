@@ -1,0 +1,5 @@
+teste3 App has been created in '2019-03-25 06:45:03',
+
+    [ appName ] => <b>teste3</b>,
+    [ appType ] => <b>1</b>,
+    [ appMod  ] => <b>full</b>,
